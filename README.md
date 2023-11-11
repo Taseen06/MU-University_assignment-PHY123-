@@ -1,4 +1,4 @@
-Assignment for group 1 of Phy-11 course
+Assignment for group 1 of Phy-II course
 
 
 #Group member
