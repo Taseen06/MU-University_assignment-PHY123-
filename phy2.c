@@ -19,7 +19,7 @@ int main()
     d=((m_1*wavelength_green)/sin(theta_1));    /*  `    d*sin(theta)= m*lambda
                                                    thus, d= m*lambda/sin(theta)  */
 
-    /*we got value of d. Now,we have find out the angle of 2nd order bright spot for red light*/
+    /*we got value of d. Now,we have to find out the angle of 2nd order bright spot for red light*/
 
 
     x=((m_2*wavelength_red)/d);/*  again,   d*sin(theta)= m*lambda
