@@ -1,5 +1,6 @@
 Assignment for group 1 of Phy-11 course
 
+
 #Group member
 
 1)Toufiqur Rahman Tasin (321-115-345)
@@ -10,4 +11,5 @@ Assignment for group 1 of Phy-11 course
 
 4)
 
-Note: Value of sine-theta varies in different compilers.
+
+Note: The value of sine-theta varies in different compilers.
