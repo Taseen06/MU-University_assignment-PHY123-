@@ -1,6 +1,7 @@
 Assignment for group 1 of Phy-II course
 
 
+
 #Group members
 
 1)Toufiqur Rahman Tasin (ID:321-115-345)
@@ -12,4 +13,4 @@ Assignment for group 1 of Phy-II course
 4)Md Tofayel Ahmed (ID:231-115-325)
 
 
-Note: The value of sine-theta varies in different compilers.
+Note: The value of sin-theta varies in different compilers.
