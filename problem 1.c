@@ -12,7 +12,7 @@ int main()
     printf("Enter the angle (theta in degree): ");
     scanf("%lf", &theta);
 
-    printf("Enter the distance between slits (d) (micrometer): ");
+    printf("Enter the distance between slits (d) in micrometer: ");
     scanf("%lf", &d);
 
     d=d*1000; // 1 micrometer =1000nm
